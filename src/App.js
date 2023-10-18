@@ -20,6 +20,10 @@ const loginHandler = () => {
 
 const db = getFirestore(app);
 
+const logoutHandler = () => {
+  signOut(auth)
+}
+
 function App() {
   const divScrollToLatestMsg = useRef(null); // element.scrollIntoView() Method
   const [user, setUser] = useState(false);
@@ -28,10 +32,8 @@ function App() {
   const [message, setMessage] = useState("");
   const [conversation, setConversation] = useState([])
   
-  
   const submitHandler = async (e) => {
     e.preventDefault();
-    
     try {
       setMessage(""); // after msg is sent make it empty
       
@@ -68,7 +70,7 @@ function App() {
           // return {id, a: "abcd"};
           return { id, ...item.data() };
         }));
-    })
+      })
     
     return () => {
       unsubscribe();
@@ -77,12 +79,6 @@ function App() {
     
   }, [])
   // }, [user])
-
-  const logoutHandler = () => {
-    signOut(auth)
-  }
-
-
 
   return (
     <>
@@ -113,7 +109,7 @@ function App() {
               </VStack>
 
               {/* Footer Send Button */}
-              <form onSubmit={submitHandler} action="" className='w-full' >
+              <form onSubmit={submitHandler} className='w-full' >
                 <HStack>
                   <Input value={message} onChange={(e) => setMessage(e.target.value)} placeholder='Write your message here ...' />
                   <Button colorScheme={'purple'} type='submit' >Send</Button>
