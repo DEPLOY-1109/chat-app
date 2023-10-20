@@ -59,5 +59,5 @@ This project needs a ⭐️ from you. Don't forget to leave a star If you found 
 <div align='right' > 
 <p>🌐 Socials: (Connect with me) 👇 </p>
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style='') [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krayush1109)
+![GitHub](https://img.shields.io/badge/github%20Profile-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style='') [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krayush1109) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&style)](https://linktr.ee/krayush1109)
 </div>
