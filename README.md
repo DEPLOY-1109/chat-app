@@ -55,3 +55,9 @@ This project is licensed under the MIT License
 <h2>💖Like my work?</h2>
 
 This project needs a ⭐️ from you. Don't forget to leave a star If you found the app helpful.⭐️
+
+<div align='right' > 
+<p>🌐 Socials: (Connect with me) 👇 </p>
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style='') [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krayush1109)
+</div>
