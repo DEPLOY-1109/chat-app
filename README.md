@@ -1,10 +1,8 @@
 <h1 align="center" id="title">Chat App</h1>
 
-<p align="center"><img src="https://socialify.git.ci/DEPLOY-1109/chat-app/image?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/DEPLOY-1109/chat-app/image?language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="project-image"></p>
 
 <p id="description">Chat Application with Google Login Authentication using Firebase</p>
-
-<p align="center"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="shields"></p>
 
 <h2>🚀 Demo</h2>
 
